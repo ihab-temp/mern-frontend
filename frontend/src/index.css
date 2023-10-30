@@ -35,7 +35,7 @@ body {
 .app {
   width: 100%;
   min-height: 100vh;
-  background-color: var(--color-primary);
+  background-color: var(--color-grey);
   display: flex;
   justify-content: center;
   align-items:flex-start;
