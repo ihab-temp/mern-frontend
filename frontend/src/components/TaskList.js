@@ -110,7 +110,7 @@ const TaskList = () => {
     });
     setCompletedTasks(filteredArray);
 
-  },tasks)
+  },[tasks])
 
   useEffect(() => {
     getTasks();
